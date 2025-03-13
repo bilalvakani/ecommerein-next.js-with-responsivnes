@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { ArrowRight } from "lucide-react"
-import hero from "../public/hero (2).png"
+import hero from "../public/hero.png"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import FeaturedProducts from "@/components/featured-products"

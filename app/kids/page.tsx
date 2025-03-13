@@ -63,8 +63,11 @@ export default function KidsPage() {
     <div className="container px-4 py-8 md:py-12">
       <div className="flex flex-col items-start gap-4 md:flex-row md:justify-between md:items-center">
         <div>
-          <h1 className="text-3xl font-bold tracking-tight">Kids' Shoes</h1>
-          <p className="text-muted-foreground">Browse our collection of kids' shoes</p>
+          {/* <h1 className="text-3xl font-bold tracking-tight">Kids' Shoes</h1>
+          <p className="text-muted-foreground">Browse our collection of kids' shoes</p> */}
+          <h1 className="text-3xl font-bold tracking-tight">Kids&apos; Shoes</h1>
+<p className="text-muted-foreground">Browse our collection of kids&apos; shoes</p>
+
         </div>
         <div className="flex items-center gap-2">
           <select className="p-2 border rounded-md">
